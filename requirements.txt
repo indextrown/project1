@@ -6,7 +6,6 @@ xmltodict
 smmap
 urllib3
 Flask
-urllib
 urllib3
 heroku
 heroku3
